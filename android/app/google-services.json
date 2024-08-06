@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658833542598",
+    "project_id": "notificationapp-d6eda",
+    "storage_bucket": "notificationapp-d6eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658833542598:android:b5b23211efafcf25d6f6c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_strip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmeety7Zibo7Real0Zqq4hhpeqy2UItg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
